@@ -4,6 +4,7 @@ Here I share my own study about algorithms as a part of my developer journey, ho
 
 <details>
   <summary>RSA (Rivest-Shamir-Adleman) Asymmetric Cryptographic Algorithm</summary>
+  
   1. Key Generation:
     * Choose 2 distinct prime numbers _`p`_ and _`q`_
     * Computer their product, _`n = p X q`_ which becomes the modulus for both the public and private keys
